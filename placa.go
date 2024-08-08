@@ -6,10 +6,7 @@ import (
 	"strings"
 )
 
-//AAA-BEZ
-//41 41 41-42 45 5A
-//BFA-GKI
-//42 46 41-47 4B 49
+// signValue := Placa do carro
 
 func main() {
 	signValue := "HZB"
