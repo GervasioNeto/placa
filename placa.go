@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-// signValue := Placa do carro
+// signValue := Inserir a placa do carro
 
 func main() {
 	signValue := "HZB"
